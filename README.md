@@ -34,7 +34,7 @@ Command Prompt On Termux
 <h2 align="left">
   
 ```
-apt update
+apt update && apt upgrade -y
 ```
 ```
 apt install git jq vim-common -y
