@@ -37,7 +37,7 @@ apt update
 apt install git jq vim-common -y
 ```
 ```
-git clone https://github.com/R1punk/UBL
+git clone https://github.com/shopeebjm/UBL
 ```
 ```
 cd ubl
