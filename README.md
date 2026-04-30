@@ -13,7 +13,7 @@
 </p>
 
 # Unlock BotLoader Xiaomi
-- Unlock Botloader Xiaomi Via `Termux` Adalah Solusi Untuk Yang Tidak Mempunyai PC/Komputer Atau PC/Komputernya Lagi Rusak Jadi Disarankan Untuk Menggunakan Metode Ini Aplikasi `Termux`.
+- Unlock Botloader Xiaomi Via `Termux` Adalah Solusi Untuk Yang Tidak Mempunyai PC/Komputer Atau PC/Komputernya Lagi Rusak Jadi Disarankan Untuk Menggunakan Metode Ini Di Aplikasi `Termux`.
 
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
