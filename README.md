@@ -30,6 +30,9 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 <h2 align="left">
   
 Command Prompt On Termux
+
+<h2 align="left">
+  
 ```
 apt update
 ```
