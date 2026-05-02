@@ -39,7 +39,7 @@ apt install git jq vim-common -y
 git clone https://github.com/shopeebjm/UBL
 ```
 ```
-cd ubl
+cd UBL
 ```
 ```
 bash ubl.sh
